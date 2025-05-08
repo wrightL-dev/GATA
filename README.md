@@ -38,10 +38,8 @@ Before running this project, make sure you have installed:
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
    http://username:password@ip:port
-   
-5. **Custom delay, edit the config.json file.**
 
-6. **Run the script:**
+5. **Run the script:**
    ```plaintext
    node gata.js
    
