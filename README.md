@@ -1,23 +1,23 @@
-# BOT Gata DVA
+# BOT GATA DVA
 
 # ⚠️ Requires high memory (RAM) usage, with a minimum of 1.5 GB free memory or more.
 
 ![Fitur Gata](Gata.png)
 
-**Fitur:**
+**FEATURE:**
 
 **• DVA**
 
 **• Supports Proxy w/o Proxy**
 
-## Requirements
+## REQUIREMENTS
 
 Before running this project, make sure you have installed:
 
 - Node.js
 - npm (Node Package Manager)
 
-## Installation
+## INSTALLATION
 
 1. **Clone this repository:**
 
@@ -45,10 +45,10 @@ Before running this project, make sure you have installed:
    ```plaintext
    node gata.js
    
-## Support
+## SUPPORT
 
 If you have any questions or need further assistance, feel free to join our Telegram channel at [t.me/tahuri01](https://t.me/tahuri01).
 
-## License
+## LICENSE
 
 This project is licensed under the [MIT License](LICENSE).
