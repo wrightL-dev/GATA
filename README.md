@@ -1,5 +1,7 @@
 # BOT Gata DVA
 
+# ⚠️ Requires high memory (RAM) usage, with a minimum of 1.5 GB free memory or more.
+
 ![Fitur Gata](Gata.png)
 
 **Fitur:**
