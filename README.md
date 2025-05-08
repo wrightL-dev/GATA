@@ -33,7 +33,7 @@ Before running this project, make sure you have installed:
 3. **Add your accounts in the token.txt file. Example:**
 
     ```plaintext
-   Eyxxxxxx
+   eyxxxxxx
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
