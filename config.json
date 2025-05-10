@@ -1,4 +1,4 @@
 {
-    "delayProof": 250000,
+    "delay": 250000,
     "retryGetTaskIn": 30
 }
