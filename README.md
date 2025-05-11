@@ -42,6 +42,10 @@ Before running this project, make sure you have installed:
 5. **Run the script:**
    ```plaintext
    node gata.js
+
+5. **Run the script on Android:**
+   ```plaintext
+   node gata-android.js
    
 ## SUPPORT
 
