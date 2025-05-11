@@ -28,7 +28,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install onnxruntime-node sharp follow-redirects https-proxy-agent socks-proxy-agent axios
+    npm install onnxruntime-node@1.21.1 sharp follow-redirects https-proxy-agent socks-proxy-agent axios
 
 3. **Add your accounts in the token.txt file. Example:**
 
