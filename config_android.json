@@ -1,0 +1,7 @@
+{
+    "delay": 250000,
+    "retryGetTaskIn": 30,
+    "intraOpNumThreads": 1,
+    "interOpNumThreads": 1,
+    "enableCpuMemArena": true
+}
