@@ -43,7 +43,7 @@ Before running this project, make sure you have installed:
    ```plaintext
    node gata.js
 
-5. **Run the script on Android:**
+5. **Run the script on Android (UserLand):**
    ```plaintext
    node gata-android.js
    
